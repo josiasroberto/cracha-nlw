@@ -1,5 +1,5 @@
 # cracha-nlw / virtual-card
-Cracha virtual criado na trilha origin na NLW Heat
+Crachá virtual criado na trilha origin na NLW Heat
 
 <li>Desktop layout</li>
 
